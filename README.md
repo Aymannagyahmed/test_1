@@ -1,3 +1,4 @@
 # test_1
 sole some c codes with my frinds
-#### You must put commintes to make debugging easy.
+#### 1- You must put commintes to make debugging easy.
+#### 2- Every one must solve 10 c codes.
